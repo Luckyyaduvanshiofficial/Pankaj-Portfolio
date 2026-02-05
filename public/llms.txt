@@ -1,0 +1,40 @@
+# Pankaj Kumawat Official
+
+> Portfolio and technical resource hub for Pankaj Kumawat, a Software Engineer specializing in Full Stack Development, System Design, and Modern Web Technologies.
+
+Important notes:
+*   Site functions as a combined professional portfolio and technical blog.
+*   Primary content types are project showcases, technical tutorials, and software engineering case studies.
+
+## Portfolio
+-   [Home](https://pankajkumawat.in/): Professional overview and core competencies in software engineering.
+-   [About](https://pankajkumawat.in/about/): Background, professional philosophy, and detailed skill set.
+-   Projects
+    -   [Project Portfolio](https://pankajkumawat.in/projects/): Gallery of completed software engineering projects.
+    -   Case Studies
+        -   [Scalable Web Applications](https://pankajkumawat.in/projects/scalable-web-app/): End-to-end build of scalable applications.
+        -   [System Design Projects](https://pankajkumawat.in/projects/system-design/): Architecture and design implementations.
+-   [Contact](https://pankajkumawat.in/contact/): Methods for professional inquiries and collaboration.
+
+## Technical Resources
+-   Tools & Tutorials
+    -   [JavaScript](https://pankajkumawat.in/tags/javascript/): Modern JavaScript and frameworks.
+    -   [React](https://pankajkumawat.in/tags/react/): Building modern user interfaces.
+    -   [Node.js](https://pankajkumawat.in/tags/nodejs/): Backend development with Node.js.
+    -   [System Design](https://pankajkumawat.in/tags/system-design/): Architecture patterns and best practices.
+    -   [Web Development](https://pankajkumawat.in/tags/web-dev/): Full stack web development techniques.
+
+## Blog
+-   Latest Articles
+    -   [Building Scalable Web Applications](https://pankajkumawat.in/blog/building-scalable-web-applications/): Best practices for scalable architecture.
+    -   [Modern Web Development](https://pankajkumawat.in/blog/modern-web-development/): Latest trends and technologies.
+-   Categories
+    -   Software Engineering
+        -   [System Design Principles](https://pankajkumawat.in/blog/system-design-principles/): A comprehensive guide to system design.
+    -   Full Stack Development
+        -   [Full Stack Best Practices](https://pankajkumawat.in/blog/fullstack-best-practices/): Building complete applications.
+
+## Optional
+-   [Resume/CV](https://pankajkumawat.in/resume/): Downloadable professional resume.
+-   [GitHub](https://github.com/pankajkumawat): Repository for code samples and project files.
+-   [LinkedIn](https://linkedin.com/in/pankaj-kumawat): Professional network profile.
