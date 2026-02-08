@@ -48,7 +48,7 @@ const About = () => {
     <Layout>
       <SEOHead
         title="About - Software Engineer"
-        description="Learn about Pankaj Kumawat's journey as a Software Engineer specializing in Backend Development, Django, Data Analytics, Machine Learning, and building intelligent applications."
+        description="Learn about Pankaj Kumawat's journey as a Software Engineer specializing in AI/ML Engineering, Data Science, Machine Learning, and building intelligent software systems."
       />
 
       {/* Hero */}
@@ -62,7 +62,7 @@ const About = () => {
               The Code Behind <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">Pankaj Kumawat</span>
             </h1>
             <p className="text-lg text-muted-foreground">
-              A passionate Software Engineer building intelligent applications with backend systems, data analytics, and machine learning.
+              A passionate Software Engineer building intelligent systems with AI/ML, Data Science, and scalable software architecture.
             </p>
           </div>
         </div>
@@ -91,33 +91,33 @@ const About = () => {
 
               <div className="prose prose-lg text-muted-foreground space-y-4">
                 <p>
-                  I'm a Software Engineer based in Jaipur, Rajasthan, India. My passion lies in building scalable backend systems, developing data-driven solutions, and creating intelligent applications using Python, Django, Data Analytics, and Machine Learning.
+                  I'm a Software Engineer based in Jaipur, Rajasthan, India. My passion lies in building intelligent systems, developing AI/ML applications, and creating data-driven solutions using Python, Machine Learning, Data Science, and Backend Engineering.
                 </p>
                 <p>
-                  With a BCA in Computer Science from University Commerce College, Jaipur (7.4 CGPA) and currently pursuing MCA at University of Rajasthan, I specialize in backend engineering, data science, and machine learning applications. My expertise includes developing predictive models, analyzing complex datasets, and building robust API systems.
+                  With a BCA in Computer Science from University Commerce College, Jaipur (7.4 CGPA) and currently pursuing MCA at University of Rajasthan, I specialize in AI/ML Engineering, Data Science, and intelligent software systems. My expertise includes developing predictive models, analyzing complex datasets, building machine learning applications, and designing scalable backend architectures.
                 </p>
                 <p>
-                  I have hands-on experience building projects like House Price Prediction and Customer Churn Analysis (ML/Data Analytics), ConnectSphere (social media app), InsightHub (blogging platform), SmartTask (task manager), and WeatherVista (real-time weather app) — all demonstrating proficiency in backend development and data-driven decision making.
+                  I have hands-on experience building projects like House Price Prediction and Customer Churn Analysis (AI/ML and Data Analytics), ConnectSphere, InsightHub, SmartTask, and WeatherVista — all demonstrating proficiency in software engineering, machine learning, and data-driven decision making.
                 </p>
                 <p>
-                  When I'm not coding, you'll find me reading books on technology trends, exploring new data science tools and ML frameworks, or solving complex programming and data analytics problems.
+                  When I'm not coding, you'll find me reading books on AI/ML trends and software engineering, exploring new data science tools and machine learning frameworks, or solving complex programming and data science problems.
                 </p>
               </div>
 
               <div className="flex flex-wrap gap-2 mt-8">
                 {[
                   "Python",
-                  "Django",
-                  "Backend Engineering",
-                  "Data Analytics",
                   "Machine Learning",
-                  "AI Applications",
+                  "AI/ML Engineering",
+                  "Data Science",
+                  "Data Analytics",
+                  "Backend Engineering",
                   "MySQL",
                   "Git/GitHub",
                   "REST API",
-                  "Data Science",
                   "Scikit-learn",
-                  "Pandas"
+                  "Pandas",
+                  "NumPy"
                 ].map((skill) => (
                   <span
                     key={skill}

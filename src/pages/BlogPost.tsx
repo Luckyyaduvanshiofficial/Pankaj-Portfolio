@@ -138,8 +138,8 @@ const BlogPost = () => {
                 <div>
                   <h3 className="font-heading font-semibold mb-1">Written by {post.author}</h3>
                   <p className="text-muted-foreground text-sm mb-3">
-                    Software Engineer | Backend Engineer | Django Developer | Passionate about building scalable backend systems,
-                    data analytics, machine learning, and intelligent applications.
+                    Software Engineer | AI/ML Engineer | Data Scientist | Backend Engineer | Passionate about building intelligent systems,
+                    machine learning applications, data analytics, and scalable software solutions.
                   </p>
                   <div className="flex gap-2">
                     <a

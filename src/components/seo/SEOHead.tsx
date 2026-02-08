@@ -12,10 +12,10 @@ interface SEOHeadProps {
 
 const defaultSEO = {
   title: "Pankaj Kumawat - Software Engineer | Official Portfolio",
-  description: "Official Portfolio of Pankaj Kumawat. Software Engineer specializing in Backend Development, Django, Python, Data Analytics, Machine Learning, and Building Scalable Systems.",
+  description: "Official Portfolio of Pankaj Kumawat. Software Engineer specializing in AI/ML Engineering, Data Science, Machine Learning, Python, and Backend Development. Building intelligent and scalable systems.",
   image: "https://pankajkumawat.in/pankaj-profile.jpg",
   url: "https://pankajkumawat.in",
-  keywords: "Pankaj Kumawat, Software Engineer, Backend Engineer, Django Developer, Python Developer, Data Analytics, Machine Learning, AI, Python Data Science, Software Developer India",
+  keywords: "Pankaj Kumawat, Software Engineer, AI Engineer, ML Engineer, Data Scientist, Machine Learning, Data Analytics, Python Developer, Backend Engineer, Artificial Intelligence, Software Developer India",
 };
 
 const personSchema = {
@@ -31,8 +31,8 @@ const personSchema = {
     "width": "800",
     "height": "800"
   },
-  "jobTitle": ["Software Engineer", "Backend Engineer", "Django Developer", "Python Developer"],
-  "description": "Software Engineer with a BCA degree and proficiency in Django, Python, Data Analytics, and Machine Learning. Experienced in building scalable backend systems and data-driven solutions.",
+  "jobTitle": ["Software Engineer", "AI/ML Engineer", "Data Scientist", "Backend Engineer"],
+  "description": "Software Engineer with a BCA degree specializing in AI/ML Engineering, Data Science, Machine Learning, and Backend Systems. Experienced in building intelligent applications and data-driven solutions.",
   "sameAs": [
     "https://www.linkedin.com/in/pankajkumawat9950/",
     "https://github.com/pankajkumawat",
@@ -41,11 +41,12 @@ const personSchema = {
   ],
   "knowsAbout": [
     "Python Programming",
-    "Django Framework",
-    "Backend Development",
-    "Data Analytics",
     "Machine Learning",
     "Artificial Intelligence",
+    "Data Science",
+    "Data Analytics",
+    "AI/ML Engineering",
+    "Backend Development",
     "MySQL",
     "REST APIs",
     "Git/GitHub",
@@ -58,7 +59,7 @@ const personSchema = {
       "@type": "Country",
       "name": "India"
     },
-    "skills": "Python, Django, Backend Development, Data Analytics, Machine Learning, MySQL, Git/GitHub"
+    "skills": "Python, Machine Learning, AI/ML Engineering, Data Science, Data Analytics, Backend Development, MySQL, Git/GitHub"
   }
 };
 

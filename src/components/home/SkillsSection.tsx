@@ -82,7 +82,7 @@ export const SkillsSection = () => {
             Technical <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">Arsenal</span>
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Proficient in Python, Django, Data Analytics, Machine Learning, and backend systems for building scalable and intelligent applications.
+            Proficient in Python, Machine Learning, AI/ML Engineering, Data Science, Data Analytics, and Backend Systems for building intelligent and scalable applications.
           </p>
         </div>
 

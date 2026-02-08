@@ -24,7 +24,7 @@ const Projects = () => {
     <Layout>
       <SEOHead
         title="Projects"
-        description="Explore Pankaj Kumawat's portfolio of Backend Development, Django, Machine Learning, Data Analytics projects showcasing practical skills in building intelligent applications."
+        description="Explore Pankaj Kumawat's portfolio of AI/ML Engineering, Data Science, Machine Learning, and Software Engineering projects showcasing practical skills in building intelligent applications."
       />
 
       {/* Hero */}
@@ -38,7 +38,7 @@ const Projects = () => {
               My <span className="gradient-text">Projects</span>
             </h1>
             <p className="text-lg text-primary-foreground/70">
-              A collection of my work in Backend Development, Django, Machine Learning, and Data Analytics
+              A collection of my work in AI/ML Engineering, Data Science, Machine Learning, and Software Engineering
             </p>
           </div>
         </div>

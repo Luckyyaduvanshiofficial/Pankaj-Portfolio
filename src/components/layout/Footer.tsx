@@ -32,7 +32,7 @@ export const Footer = () => {
               </span>
             </Link>
             <p className="text-muted-foreground text-sm leading-relaxed">
-              Software Engineer passionate about building scalable backend systems, data analytics solutions, and intelligent applications.
+              Software Engineer passionate about AI/ML Engineering, Data Science, Machine Learning, and building intelligent software systems.
             </p>
           </div>
 

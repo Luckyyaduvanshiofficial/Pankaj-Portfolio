@@ -57,8 +57,8 @@ export const HeroSection = () => {
             </h1>
 
             <p className="text-lg md:text-xl text-muted-foreground mb-8 max-w-xl mx-auto lg:mx-0 animate-fade-up" style={{ animationDelay: "0.2s" }}>
-              Backend Engineer | Django Developer | Python Developer
-              Specializing in scalable backend systems, data analytics, and machine learning solutions.
+              AI/ML Engineer | Data Scientist | Python Developer | Backend Engineer
+              Specializing in Machine Learning, Data Analytics, AI applications, and scalable backend systems.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start animate-fade-up" style={{ animationDelay: "0.3s" }}>
@@ -103,7 +103,7 @@ export const HeroSection = () => {
                 <img
                   src={heroImage}
                   alt="Pankaj Kumawat - Software Engineer"
-                  className="w-full max-w-md rounded-xl object-cover aspect-[4/3]"
+                  className="w-full max-w-md rounded-xl object-cover aspect-square"
                   loading="eager"
                 />
               </div>
@@ -114,7 +114,7 @@ export const HeroSection = () => {
                   <Cpu className="text-blue-500" size={24} />
                   <div>
                     <p className="text-xs text-muted-foreground">Specialty</p>
-                    <p className="text-sm font-bold text-foreground">Python & Django</p>
+                    <p className="text-sm font-bold text-foreground">AI/ML & Data Science</p>
                   </div>
                 </div>
               </div>

@@ -6,18 +6,18 @@ import workspaceImage from "@/assets/Workspace.webp";
 const highlights = [
   {
     Icon: Terminal,
-    title: "Backend Development",
-    description: "Building scalable backend systems with Python and Django",
+    title: "AI/ML Engineering",
+    description: "Building Machine Learning models and AI applications with Python",
   },
   {
     Icon: Server,
-    title: "Data Analytics & ML",
-    description: "Developing machine learning models and data-driven solutions",
+    title: "Data Science & Analytics",
+    description: "Developing data-driven solutions and predictive models",
   },
   {
     Icon: Code2,
     title: "Software Engineering",
-    description: "Creating intelligent, efficient, and scalable applications",
+    description: "Creating scalable, efficient, and intelligent software systems",
   },
 ];
 
@@ -45,15 +45,15 @@ export const AboutPreview = () => {
               About Me
             </span>
             <h2 className="text-3xl md:text-4xl font-heading font-bold mt-2 mb-6 text-foreground">
-              Building <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">Web Solutions</span>
+              Building <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">Intelligent Systems</span>
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-6">
-              I'm Pankaj Kumawat, a Software Engineer with a BCA degree and proficiency in Django, Python, Data Analytics, and Machine Learning.
-              Experienced in building scalable backend systems, data-driven solutions, and intelligent applications.
+              I'm Pankaj Kumawat, a Software Engineer with a BCA degree specializing in AI/ML Engineering, Data Science, Machine Learning, and Backend Systems.
+              Experienced in building intelligent applications, predictive models, and scalable software systems.
             </p>
             <p className="text-muted-foreground leading-relaxed mb-8">
-              From developing machine learning models for house price prediction and customer churn analysis to building dynamic backend systems,
-              I focus on delivering data-driven, intelligent solutions with clean, efficient code.
+              From developing machine learning models for house price prediction and customer churn analysis to building intelligent backend systems,
+              I focus on delivering AI-driven, data-centric solutions with robust software engineering practices.
             </p>
 
             {/* Highlights */}

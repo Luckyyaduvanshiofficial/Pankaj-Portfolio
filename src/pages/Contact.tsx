@@ -71,7 +71,7 @@ const Contact = () => {
     <Layout>
       <SEOHead
         title="Contact"
-        description="Get in touch with Pankaj Kumawat. Available for Software Engineer, Backend Engineer, Django development, and Data Analytics projects and collaboration opportunities."
+        description="Get in touch with Pankaj Kumawat. Available for Software Engineer, AI/ML Engineer, Data Scientist, and Backend Engineer roles and collaboration opportunities."
       />
 
       {/* Hero */}
