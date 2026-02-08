@@ -138,12 +138,12 @@ const BlogPost = () => {
                 <div>
                   <h3 className="font-heading font-semibold mb-1">Written by {post.author}</h3>
                   <p className="text-muted-foreground text-sm mb-3">
-                    Python Developer | Django Developer | Passionate about building responsive web applications,
-                    scalable backend systems, and user-centric solutions.
+                    Software Engineer | Backend Engineer | Django Developer | Passionate about building scalable backend systems,
+                    data analytics, machine learning, and intelligent applications.
                   </p>
                   <div className="flex gap-2">
                     <a
-                      href="https://www.linkedin.com/in/pankajkumawat"
+                      href="https://www.linkedin.com/in/pankajkumawat9950/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-primary hover:underline text-sm"

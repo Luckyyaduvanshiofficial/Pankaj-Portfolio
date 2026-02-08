@@ -29,7 +29,7 @@ const contactInfo = [
 ];
 
 const socialLinks = [
-  { icon: Linkedin, href: "https://www.linkedin.com/in/pankajkumawat", label: "LinkedIn" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/pankajkumawat9950/", label: "LinkedIn" },
   { icon: Github, href: "https://github.com/pankajkumawat", label: "GitHub" },
   { icon: Instagram, href: "https://www.instagram.com/pankajkumawat", label: "Instagram" },
 ];
@@ -71,7 +71,7 @@ const Contact = () => {
     <Layout>
       <SEOHead
         title="Contact"
-        description="Get in touch with Pankaj Kumawat. Available for Python Development, Django web development projects, and collaboration opportunities."
+        description="Get in touch with Pankaj Kumawat. Available for Software Engineer, Backend Engineer, Django development, and Data Analytics projects and collaboration opportunities."
       />
 
       {/* Hero */}

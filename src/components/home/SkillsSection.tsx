@@ -15,17 +15,27 @@ const skillCategories = [
       { name: "Python (Advanced)", level: 90 },
       { name: "JavaScript (Intermediate)", level: 70 },
       { name: "HTML & CSS", level: 85 },
+      { name: "SQL", level: 82 },
+    ],
+  },
+  {
+    title: "Backend Development",
+    Icon: Server,
+    skills: [
+      { name: "Django", level: 88 },
+      { name: "REST APIs", level: 85 },
+      { name: "Backend Systems", level: 82 },
       { name: "Bootstrap", level: 80 },
     ],
   },
   {
-    title: "Web Development",
-    Icon: Server,
+    title: "Data Analytics & AI/ML",
+    Icon: Cpu,
     skills: [
-      { name: "Django", level: 88 },
-      { name: "Responsive Design", level: 85 },
-      { name: "REST APIs", level: 80 },
-      { name: "Bootstrap", level: 82 },
+      { name: "Data Analysis", level: 85 },
+      { name: "Machine Learning", level: 78 },
+      { name: "Python Data Science", level: 80 },
+      { name: "AI Applications", level: 75 },
     ],
   },
   {
@@ -45,26 +55,16 @@ const skillCategories = [
       { name: "Git & GitHub", level: 85 },
       { name: "MS Office", level: 80 },
       { name: "VS Code", level: 90 },
-      { name: "Command Line", level: 75 },
+      { name: "Jupyter Notebook", level: 78 },
     ],
   },
   {
-    title: "Testing",
-    Icon: Cpu,
-    skills: [
-      { name: "Unit Testing", level: 78 },
-      { name: "Automation Testing", level: 72 },
-      { name: "Debugging", level: 82 },
-      { name: "Code Review", level: 75 },
-    ],
-  },
-  {
-    title: "Soft Skills",
+    title: "Professional Skills",
     Icon: Cloud,
     skills: [
       { name: "Problem Solving", level: 88 },
-      { name: "Team Collaboration", level: 85 },
-      { name: "Communication", level: 82 },
+      { name: "Data-Driven Decisions", level: 85 },
+      { name: "Team Collaboration", level: 82 },
       { name: "Quick Learning", level: 90 },
     ],
   },
@@ -82,7 +82,7 @@ export const SkillsSection = () => {
             Technical <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">Arsenal</span>
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Proficient in Python, Django, JavaScript, and modern web technologies for building responsive and scalable applications.
+            Proficient in Python, Django, Data Analytics, Machine Learning, and backend systems for building scalable and intelligent applications.
           </p>
         </div>
 

@@ -47,8 +47,8 @@ const About = () => {
   return (
     <Layout>
       <SEOHead
-        title="About - Python Developer"
-        description="Learn about Pankaj Kumawat's journey as a Python Developer specializing in Django, Web Development, and building responsive applications."
+        title="About - Software Engineer"
+        description="Learn about Pankaj Kumawat's journey as a Software Engineer specializing in Backend Development, Django, Data Analytics, Machine Learning, and building intelligent applications."
       />
 
       {/* Hero */}
@@ -62,7 +62,7 @@ const About = () => {
               The Code Behind <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">Pankaj Kumawat</span>
             </h1>
             <p className="text-lg text-muted-foreground">
-              A passionate Python Developer on a mission to build innovative web applications.
+              A passionate Software Engineer building intelligent applications with backend systems, data analytics, and machine learning.
             </p>
           </div>
         </div>
@@ -91,16 +91,16 @@ const About = () => {
 
               <div className="prose prose-lg text-muted-foreground space-y-4">
                 <p>
-                  I'm a Python Developer based in Jaipur, Rajasthan, India. My passion lies in building responsive web applications, optimizing performance, and designing scalable backend systems using Django and Python.
+                  I'm a Software Engineer based in Jaipur, Rajasthan, India. My passion lies in building scalable backend systems, developing data-driven solutions, and creating intelligent applications using Python, Django, Data Analytics, and Machine Learning.
                 </p>
                 <p>
-                  With a BCA in Computer Science from University Commerce College, Jaipur (7.4 CGPA) and a Python Developer Certificate from TechnoGlobe, I am currently pursuing MCA at University of Rajasthan. I specialize in creating user-centric solutions with clean, efficient code.
+                  With a BCA in Computer Science from University Commerce College, Jaipur (7.4 CGPA) and currently pursuing MCA at University of Rajasthan, I specialize in backend engineering, data science, and machine learning applications. My expertise includes developing predictive models, analyzing complex datasets, and building robust API systems.
                 </p>
                 <p>
-                  I have hands-on experience building projects like ConnectSphere (social media app), InsightHub (blogging platform), SmartTask (task manager), and WeatherVista (real-time weather app) — all built with Django, Python, and modern web technologies.
+                  I have hands-on experience building projects like House Price Prediction and Customer Churn Analysis (ML/Data Analytics), ConnectSphere (social media app), InsightHub (blogging platform), SmartTask (task manager), and WeatherVista (real-time weather app) — all demonstrating proficiency in backend development and data-driven decision making.
                 </p>
                 <p>
-                  When I'm not coding, you'll find me reading books on technology trends, exploring new tools and frameworks through internet surfing, or solving complex programming problems.
+                  When I'm not coding, you'll find me reading books on technology trends, exploring new data science tools and ML frameworks, or solving complex programming and data analytics problems.
                 </p>
               </div>
 
@@ -108,16 +108,16 @@ const About = () => {
                 {[
                   "Python",
                   "Django",
-                  "JavaScript",
-                  "HTML",
-                  "CSS",
-                  "Bootstrap",
+                  "Backend Engineering",
+                  "Data Analytics",
+                  "Machine Learning",
+                  "AI Applications",
                   "MySQL",
                   "Git/GitHub",
                   "REST API",
-                  "Responsive Design",
-                  "Unit Testing",
-                  "MS Office"
+                  "Data Science",
+                  "Scikit-learn",
+                  "Pandas"
                 ].map((skill) => (
                   <span
                     key={skill}
@@ -141,7 +141,7 @@ const About = () => {
                 My Journey So Far
               </h2>
               <p className="text-lg text-muted-foreground">
-                A timeline of my growth as a Python Developer
+                A timeline of my growth as a Software Engineer
               </p>
             </div>
 

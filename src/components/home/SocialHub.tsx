@@ -5,7 +5,7 @@ const socialLinks = [
   {
     name: "LinkedIn",
     description: "Connect on LinkedIn",
-    href: "https://www.linkedin.com/in/pankajkumawat",
+    href: "https://www.linkedin.com/in/pankajkumawat9950/",
     Icon: Linkedin,
   },
   {

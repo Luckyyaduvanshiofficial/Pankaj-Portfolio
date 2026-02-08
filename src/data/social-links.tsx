@@ -18,7 +18,7 @@ export const socialLinks: SocialLink[] = [
   },
   {
     name: "LinkedIn",
-    url: "https://www.linkedin.com/in/pankajkumawat",
+    url: "https://www.linkedin.com/in/pankajkumawat9950/",
     icon: <Linkedin className="w-5 h-5" />,
     color: "hover:text-blue-600",
     description: "Professional networking"

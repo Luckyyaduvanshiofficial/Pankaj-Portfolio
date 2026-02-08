@@ -45,20 +45,20 @@ export const HeroSection = () => {
               className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full mb-6 border border-primary/30 bg-primary/10 animate-fade-up"
             >
               <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
-              <span className="text-sm text-foreground font-medium tracking-wide">Available for Python Developer Roles</span>
+              <span className="text-sm text-foreground font-medium tracking-wide">Available for Software Engineer & Backend Developer Roles</span>
             </div>
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-heading font-bold mb-6 animate-fade-up" style={{ animationDelay: "0.1s" }}>
               <span className="text-foreground">Pankaj Kumawat</span>
               <br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">
-                Python Developer & Web Developer
+                Software Engineer
               </span>
             </h1>
 
             <p className="text-lg md:text-xl text-muted-foreground mb-8 max-w-xl mx-auto lg:mx-0 animate-fade-up" style={{ animationDelay: "0.2s" }}>
-              Python Developer with proficiency in Django, Python, and JavaScript.
-              Experienced in building responsive web applications and scalable backend systems.
+              Backend Engineer | Django Developer | Python Developer
+              Specializing in scalable backend systems, data analytics, and machine learning solutions.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start animate-fade-up" style={{ animationDelay: "0.3s" }}>
@@ -74,7 +74,7 @@ export const HeroSection = () => {
                 className="border-border hover:bg-accent"
                 asChild
               >
-                <a href="https://www.linkedin.com/in/pankajkumawat" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/pankajkumawat9950/" target="_blank" rel="noopener noreferrer">
                   Official LinkedIn
                 </a>
               </Button>
@@ -102,7 +102,7 @@ export const HeroSection = () => {
               <div className="relative bg-card p-2 rounded-2xl overflow-hidden ring-1 ring-border">
                 <img
                   src={heroImage}
-                  alt="Pankaj Kumawat - Python Developer"
+                  alt="Pankaj Kumawat - Software Engineer"
                   className="w-full max-w-md rounded-xl object-cover aspect-[4/3]"
                   loading="eager"
                 />
@@ -124,7 +124,7 @@ export const HeroSection = () => {
                   <ShieldCheck className="text-green-500" size={24} />
                   <div>
                     <p className="text-xs text-muted-foreground">Focus</p>
-                    <p className="text-sm font-bold text-foreground">Web Development</p>
+                    <p className="text-sm font-bold text-foreground">Data Analytics & ML</p>
                   </div>
                 </div>
               </div>

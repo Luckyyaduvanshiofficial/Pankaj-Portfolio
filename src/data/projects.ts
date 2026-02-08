@@ -14,6 +14,26 @@ export interface Project {
 
 export const projects: Project[] = [
   {
+    id: "house-price-prediction",
+    title: "House Price Prediction",
+    description: "Machine learning model to predict house prices based on various features using Python and scikit-learn.",
+    longDescription: "Developed a comprehensive machine learning model for house price prediction using regression algorithms. Implemented data preprocessing, feature engineering, model training, and evaluation using Python libraries including pandas, numpy, and scikit-learn. Achieved high accuracy in predicting housing prices based on location, size, and amenities.",
+    techStack: ["Python", "Machine Learning", "Scikit-learn", "Pandas", "NumPy", "Data Analysis"],
+    featured: true,
+    github: "https://github.com/pankajkumawat",
+    date: "Mar 2025 – Apr 2025",
+  },
+  {
+    id: "churn-analysis",
+    title: "Customer Churn Analysis",
+    description: "Data analytics project to predict customer churn and identify key retention factors using Python and ML.",
+    longDescription: "Built a comprehensive customer churn analysis system using machine learning classification algorithms. Performed exploratory data analysis, feature importance analysis, and predictive modeling to identify customers at risk of churning. Provided actionable insights for customer retention strategies.",
+    techStack: ["Python", "Machine Learning", "Data Analytics", "Pandas", "Matplotlib", "Seaborn"],
+    featured: true,
+    github: "https://github.com/pankajkumawat",
+    date: "Apr 2025 – May 2025",
+  },
+  {
     id: "connectsphere",
     title: "ConnectSphere",
     description: "A dynamic social media application featuring secure user authentication, customizable profiles, and social interactions.",

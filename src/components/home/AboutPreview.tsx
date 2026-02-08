@@ -6,18 +6,18 @@ import workspaceImage from "@/assets/Workspace.webp";
 const highlights = [
   {
     Icon: Terminal,
-    title: "Python & Django Development",
-    description: "Building responsive web applications with Python and Django",
+    title: "Backend Development",
+    description: "Building scalable backend systems with Python and Django",
   },
   {
     Icon: Server,
-    title: "Backend Systems",
-    description: "Designing scalable backend systems with optimized performance",
+    title: "Data Analytics & ML",
+    description: "Developing machine learning models and data-driven solutions",
   },
   {
     Icon: Code2,
-    title: "Responsive Design",
-    description: "Creating user-centric, responsive web interfaces",
+    title: "Software Engineering",
+    description: "Creating intelligent, efficient, and scalable applications",
   },
 ];
 
@@ -48,12 +48,12 @@ export const AboutPreview = () => {
               Building <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">Web Solutions</span>
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-6">
-              I'm Pankaj Kumawat, a Python Developer with a BCA degree and proficiency in Django, Python, and JavaScript.
-              Experienced in building responsive web applications, optimizing performance, and designing scalable backend systems.
+              I'm Pankaj Kumawat, a Software Engineer with a BCA degree and proficiency in Django, Python, Data Analytics, and Machine Learning.
+              Experienced in building scalable backend systems, data-driven solutions, and intelligent applications.
             </p>
             <p className="text-muted-foreground leading-relaxed mb-8">
-              From creating dynamic social media platforms to building weather applications with real-time data,
-              I focus on delivering user-centric solutions with clean, efficient code.
+              From developing machine learning models for house price prediction and customer churn analysis to building dynamic backend systems,
+              I focus on delivering data-driven, intelligent solutions with clean, efficient code.
             </p>
 
             {/* Highlights */}

@@ -3,7 +3,7 @@ import { Github, Linkedin, Instagram, Mail, Heart } from "lucide-react";
 
 const socialLinks = [
   { href: "https://github.com/pankajkumawat", icon: Github, label: "GitHub" },
-  { href: "https://www.linkedin.com/in/pankajkumawat", icon: Linkedin, label: "LinkedIn" },
+  { href: "https://www.linkedin.com/in/pankajkumawat9950/", icon: Linkedin, label: "LinkedIn" },
   { href: "https://www.instagram.com/pankajkumawat", icon: Instagram, label: "Instagram" },
   { href: "mailto:pankajkumawat2023@gmail.com", icon: Mail, label: "Email" },
 ];
@@ -32,7 +32,7 @@ export const Footer = () => {
               </span>
             </Link>
             <p className="text-muted-foreground text-sm leading-relaxed">
-              Python Developer passionate about building responsive web applications and scalable backend systems.
+              Software Engineer passionate about building scalable backend systems, data analytics solutions, and intelligent applications.
             </p>
           </div>
 

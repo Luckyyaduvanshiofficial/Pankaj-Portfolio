@@ -1,16 +1,16 @@
 const techs = [
     { name: "Python", color: "#3776AB" },
     { name: "Django", color: "#092E20" },
-    { name: "JavaScript", color: "#F7DF1E" },
-    { name: "HTML", color: "#E34F26" },
-    { name: "CSS", color: "#1572B6" },
-    { name: "Bootstrap", color: "#7952B3" },
+    { name: "Machine Learning", color: "#FF6F00" },
+    { name: "Data Analytics", color: "#00897B" },
     { name: "MySQL", color: "#4479A1" },
+    { name: "Scikit-learn", color: "#F7931E" },
+    { name: "Pandas", color: "#150458" },
+    { name: "NumPy", color: "#013243" },
     { name: "Git", color: "#F05032" },
     { name: "GitHub", color: "#181717" },
     { name: "REST API", color: "#009688" },
-    { name: "Responsive Design", color: "#61DAFB" },
-    { name: "Unit Testing", color: "#DC382D" },
+    { name: "Backend Systems", color: "#DC382D" },
 ];
 
 export const TechStack = () => {

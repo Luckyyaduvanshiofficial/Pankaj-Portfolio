@@ -17,5 +17,5 @@ Allow: /
 Sitemap: https://pankajkumawat.in/sitemap.xml
 
 # Social Media Profiles for Search Engines
-# LinkedIn: https://www.linkedin.com/in/pankajkumawat
+# LinkedIn: https://www.linkedin.com/in/pankajkumawat9950/
 # GitHub: https://github.com/pankajkumawat

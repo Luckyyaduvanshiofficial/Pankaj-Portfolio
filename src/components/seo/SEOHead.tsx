@@ -11,11 +11,11 @@ interface SEOHeadProps {
 }
 
 const defaultSEO = {
-  title: "Pankaj Kumawat - Python Developer | Official Portfolio",
-  description: "Official Portfolio of Pankaj Kumawat. Python Developer specializing in Django, Web Development, Responsive Design, and Building Scalable Backend Systems.",
+  title: "Pankaj Kumawat - Software Engineer | Official Portfolio",
+  description: "Official Portfolio of Pankaj Kumawat. Software Engineer specializing in Backend Development, Django, Python, Data Analytics, Machine Learning, and Building Scalable Systems.",
   image: "https://pankajkumawat.in/pankaj-profile.jpg",
   url: "https://pankajkumawat.in",
-  keywords: "Pankaj Kumawat, Pankaj Kumawat Official, Python Developer, Django Developer, Web Developer, Responsive Design, Python, JavaScript, Software Developer India",
+  keywords: "Pankaj Kumawat, Software Engineer, Backend Engineer, Django Developer, Python Developer, Data Analytics, Machine Learning, AI, Python Data Science, Software Developer India",
 };
 
 const personSchema = {
@@ -31,10 +31,10 @@ const personSchema = {
     "width": "800",
     "height": "800"
   },
-  "jobTitle": ["Python Developer", "Django Developer", "Web Developer"],
-  "description": "Python Developer with a BCA degree and proficiency in Django, Python, and JavaScript. Experienced in building responsive web applications and scalable backend systems.",
+  "jobTitle": ["Software Engineer", "Backend Engineer", "Django Developer", "Python Developer"],
+  "description": "Software Engineer with a BCA degree and proficiency in Django, Python, Data Analytics, and Machine Learning. Experienced in building scalable backend systems and data-driven solutions.",
   "sameAs": [
-    "https://www.linkedin.com/in/pankajkumawat",
+    "https://www.linkedin.com/in/pankajkumawat9950/",
     "https://github.com/pankajkumawat",
     "https://www.instagram.com/pankajkumawat",
     "https://pankajkumawat.in",
@@ -42,23 +42,23 @@ const personSchema = {
   "knowsAbout": [
     "Python Programming",
     "Django Framework",
-    "JavaScript",
-    "HTML & CSS",
-    "Bootstrap",
+    "Backend Development",
+    "Data Analytics",
+    "Machine Learning",
+    "Artificial Intelligence",
     "MySQL",
-    "Responsive Design",
-    "Git/GitHub",
     "REST APIs",
-    "Unit Testing"
+    "Git/GitHub",
+    "Software Engineering"
   ],
   "hasOccupation": {
     "@type": "Occupation",
-    "name": "Python Developer",
+    "name": "Software Engineer",
     "occupationLocation": {
       "@type": "Country",
       "name": "India"
     },
-    "skills": "Python, Django, JavaScript, HTML, CSS, Bootstrap, MySQL, Git/GitHub"
+    "skills": "Python, Django, Backend Development, Data Analytics, Machine Learning, MySQL, Git/GitHub"
   }
 };
 
@@ -73,7 +73,7 @@ const professionalSchema = {
     "name": "Pankaj Kumawat",
     "image": "https://pankajkumawat.in/pankaj-profile.jpg",
     "sameAs": [
-      "https://www.linkedin.com/in/pankajkumawat",
+      "https://www.linkedin.com/in/pankajkumawat9950/",
       "https://github.com/pankajkumawat",
       "https://www.instagram.com/pankajkumawat",
       "https://pankajkumawat.in"
@@ -135,7 +135,7 @@ export const SEOHead = ({
       <meta property="og:image:type" content="image/jpeg" />
 
       {/* Additional Profile Links for Search Engines */}
-      <link rel="me" href="https://www.linkedin.com/in/pankajkumawat" />
+      <link rel="me" href="https://www.linkedin.com/in/pankajkumawat9950/" />
       <link rel="me" href="https://github.com/pankajkumawat" />
       <link rel="author" href="https://pankajkumawat.in" />
 

@@ -67,7 +67,7 @@ Pankaj Kumawat is a **Python Developer** with a BCA degree and proficiency in Dj
 
 ### Professional Networks
 - **Portfolio Website:** [https://pankajkumawat.in](https://pankajkumawat.in)
-- **LinkedIn:** [https://www.linkedin.com/in/pankajkumawat](https://www.linkedin.com/in/pankajkumawat)
+- **LinkedIn:** [https://www.linkedin.com/in/pankajkumawat9950/](https://www.linkedin.com/in/pankajkumawat9950/)
 - **GitHub:** [https://github.com/pankajkumawat](https://github.com/pankajkumawat)
 - **Email:** pankajkumawat2023@gmail.com
 
