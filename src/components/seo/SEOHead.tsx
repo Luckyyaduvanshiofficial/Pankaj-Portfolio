@@ -11,54 +11,54 @@ interface SEOHeadProps {
 }
 
 const defaultSEO = {
-  title: "Pankaj Kumawat - Software Engineer | Official Portfolio",
-  description: "Official Portfolio of Pankaj Kumawat. Expert Software Engineer specializing in Full Stack Development, System Design, Modern Web Technologies, and Cloud Solutions.",
+  title: "Pankaj Kumawat - Python Developer | Official Portfolio",
+  description: "Official Portfolio of Pankaj Kumawat. Python Developer specializing in Django, Web Development, Responsive Design, and Building Scalable Backend Systems.",
   image: "https://pankajkumawat.in/pankaj-profile.jpg",
   url: "https://pankajkumawat.in",
-  keywords: "Pankaj Kumawat, Pankaj Kumawat Official, Software Engineer, Full Stack Developer, System Design, Web Developer, Cloud Solutions Architect, Software Engineer India",
+  keywords: "Pankaj Kumawat, Pankaj Kumawat Official, Python Developer, Django Developer, Web Developer, Responsive Design, Python, JavaScript, Software Developer India",
 };
 
 const personSchema = {
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Pankaj Kumawat",
-  "alternateName": ["Pankaj Kumawat Software Engineer", "Pankaj Kumawat Official"],
+  "alternateName": ["Pankaj Kumawat Python Developer", "Pankaj Kumawat Official"],
   "url": "https://pankajkumawat.in",
   "image": {
     "@type": "ImageObject",
     "url": "https://pankajkumawat.in/pankaj-profile.jpg",
-    "caption": "Pankaj Kumawat - Software Engineer",
+    "caption": "Pankaj Kumawat - Python Developer",
     "width": "800",
     "height": "800"
   },
-  "jobTitle": ["Software Engineer", "Full Stack Developer", "System Architect"],
-  "description": "Professional Software Engineer specializing in Full Stack Development, System Design, Cloud Architecture, and Modern Web Technologies.",
+  "jobTitle": ["Python Developer", "Django Developer", "Web Developer"],
+  "description": "Python Developer with a BCA degree and proficiency in Django, Python, and JavaScript. Experienced in building responsive web applications and scalable backend systems.",
   "sameAs": [
-    "https://www.linkedin.com/in/pankaj-kumawat",
+    "https://www.linkedin.com/in/pankajkumawat",
     "https://github.com/pankajkumawat",
     "https://www.instagram.com/pankajkumawat",
     "https://pankajkumawat.in",
   ],
   "knowsAbout": [
-    "JavaScript Programming",
-    "React Framework",
-    "Node.js",
-    "Cloud Computing (AWS/Azure)",
-    "Microservices Architecture",
-    "Docker & Kubernetes",
-    "System Design",
-    "Database Management",
-    "RESTful APIs",
-    "GraphQL"
+    "Python Programming",
+    "Django Framework",
+    "JavaScript",
+    "HTML & CSS",
+    "Bootstrap",
+    "MySQL",
+    "Responsive Design",
+    "Git/GitHub",
+    "REST APIs",
+    "Unit Testing"
   ],
   "hasOccupation": {
     "@type": "Occupation",
-    "name": "Software Engineer",
+    "name": "Python Developer",
     "occupationLocation": {
       "@type": "Country",
       "name": "India"
     },
-    "skills": "JavaScript, React, Node.js, AWS, Docker, Kubernetes, System Design"
+    "skills": "Python, Django, JavaScript, HTML, CSS, Bootstrap, MySQL, Git/GitHub"
   }
 };
 
@@ -73,7 +73,7 @@ const professionalSchema = {
     "name": "Pankaj Kumawat",
     "image": "https://pankajkumawat.in/pankaj-profile.jpg",
     "sameAs": [
-      "https://www.linkedin.com/in/pankaj-kumawat",
+      "https://www.linkedin.com/in/pankajkumawat",
       "https://github.com/pankajkumawat",
       "https://www.instagram.com/pankajkumawat",
       "https://pankajkumawat.in"
@@ -121,7 +121,7 @@ export const SEOHead = ({
       <meta property="twitter:title" content={fullTitle} />
       <meta property="twitter:description" content={description} />
       <meta property="twitter:image" content={image} />
-      <meta property="twitter:image:alt" content="Pankaj Kumawat - Software Engineer" />
+      <meta property="twitter:image:alt" content="Pankaj Kumawat - Python Developer" />
 
       {/* Additional SEO Meta Tags */}
       <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
@@ -131,11 +131,11 @@ export const SEOHead = ({
       {/* Image SEO */}
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="630" />
-      <meta property="og:image:alt" content="Pankaj Kumawat - Software Engineer" />
+      <meta property="og:image:alt" content="Pankaj Kumawat - Python Developer" />
       <meta property="og:image:type" content="image/jpeg" />
 
       {/* Additional Profile Links for Search Engines */}
-      <link rel="me" href="https://www.linkedin.com/in/pankaj-kumawat" />
+      <link rel="me" href="https://www.linkedin.com/in/pankajkumawat" />
       <link rel="me" href="https://github.com/pankajkumawat" />
       <link rel="author" href="https://pankajkumawat.in" />
 

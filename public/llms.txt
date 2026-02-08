@@ -1,6 +1,6 @@
 # Pankaj Kumawat Official
 
-> Portfolio and technical resource hub for Pankaj Kumawat, a Software Engineer specializing in Full Stack Development, System Design, and Modern Web Technologies.
+> Portfolio and technical resource hub for Pankaj Kumawat, a Python Developer specializing in Django, Web Development, and Responsive Design.
 
 Important notes:
 *   Site functions as a combined professional portfolio and technical blog.
@@ -37,4 +37,4 @@ Important notes:
 ## Optional
 -   [Resume/CV](https://pankajkumawat.in/resume/): Downloadable professional resume.
 -   [GitHub](https://github.com/pankajkumawat): Repository for code samples and project files.
--   [LinkedIn](https://linkedin.com/in/pankaj-kumawat): Professional network profile.
+-   [LinkedIn](https://linkedin.com/in/pankajkumawat): Professional network profile.

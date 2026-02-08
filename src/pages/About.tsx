@@ -1,45 +1,45 @@
 import { Layout } from "@/components/layout/Layout";
 import { SEOHead } from "@/components/seo/SEOHead";
 import { Code2, Server, GraduationCap, Terminal, Cloud, Calendar } from "lucide-react";
-import workspaceImage from "@/assets/workspace-portrait.jpg";
+import workspaceImage from "@/assets/Workspace.webp";
 
 const timeline = [
   {
-    year: "2026",
-    title: "Software Engineer",
-    description: "Deep diving into advanced Distributed Systems, Microservices, and Cloud Native architectures.",
-    icon: Cloud,
+    year: "2025 – Present",
+    title: "MCA: Computer Science",
+    description: "Pursuing Master of Computer Applications at University of Rajasthan.",
+    icon: GraduationCap,
     current: true,
   },
   {
-    year: "2025",
-    title: "B.Tech in Computer Science",
-    description: "Completed Bachelor's degree with specialization in Software Engineering and System Design.",
+    year: "2022 – 2025",
+    title: "BCA: Computer Science",
+    description: "Bachelor of Computer Applications from University Commerce College, Jaipur. GPA: 7.4 CGPA.",
     icon: GraduationCap,
   },
   {
-    year: "2025",
-    title: "Full Stack Developer Intern",
-    description: "Developed and optimized web applications using modern JavaScript frameworks and cloud services.",
+    year: "2024 – 2025",
+    title: "Python Developer Certificate",
+    description: "Completed Python Developer certification at TechnoGlobe, Jaipur, India.",
     icon: Terminal,
   },
   {
-    year: "2024",
-    title: "React & Node.js",
-    description: "Mastered modern web technologies, building scalable applications and real-time services.",
+    year: "2025",
+    title: "WeatherVista Application",
+    description: "Built a responsive weather app with OpenWeatherMap API and Google Search Engine API integration.",
+    icon: Cloud,
+  },
+  {
+    year: "2025",
+    title: "SmartTask Web Application",
+    description: "Developed a responsive task management app for creating, updating, and managing tasks.",
     icon: Server,
   },
   {
-    year: "2023",
-    title: "Full Stack Fundamentals",
-    description: "Learned core web technologies, database management, and system design principles.",
+    year: "2024",
+    title: "ConnectSphere & InsightHub",
+    description: "Built a social media application and a dynamic blogging platform using Python and Django.",
     icon: Code2,
-  },
-  {
-    year: "2022",
-    title: "Programming Foundation",
-    description: "Started journey with core programming concepts, data structures, and algorithms.",
-    icon: GraduationCap,
   },
 ];
 
@@ -47,8 +47,8 @@ const About = () => {
   return (
     <Layout>
       <SEOHead
-        title="About - Software Engineer"
-        description="Learn about Pankaj Kumawat's journey as a Software Engineer specializing in Full Stack Development and System Design."
+        title="About - Python Developer"
+        description="Learn about Pankaj Kumawat's journey as a Python Developer specializing in Django, Web Development, and building responsive applications."
       />
 
       {/* Hero */}
@@ -62,7 +62,7 @@ const About = () => {
               The Code Behind <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">Pankaj Kumawat</span>
             </h1>
             <p className="text-lg text-muted-foreground">
-              A passionate engineer on a mission to build the digital infrastructure of tomorrow.
+              A passionate Python Developer on a mission to build innovative web applications.
             </p>
           </div>
         </div>
@@ -91,33 +91,33 @@ const About = () => {
 
               <div className="prose prose-lg text-muted-foreground space-y-4">
                 <p>
-                  I'm a Software Engineer based in India. My passion lies in building innovative software solutions that power the web—modern applications, distributed systems, and scalable architectures.
+                  I'm a Python Developer based in Jaipur, Rajasthan, India. My passion lies in building responsive web applications, optimizing performance, and designing scalable backend systems using Django and Python.
                 </p>
                 <p>
-                  With a B.Tech in Computer Science, I specialize in Full Stack Development, System Design, and Cloud Architecture. Whether it's optimizing application performance or designing scalable systems from scratch, I love the challenge of efficiency and innovation.
+                  With a BCA in Computer Science from University Commerce College, Jaipur (7.4 CGPA) and a Python Developer Certificate from TechnoGlobe, I am currently pursuing MCA at University of Rajasthan. I specialize in creating user-centric solutions with clean, efficient code.
                 </p>
                 <p>
-                  I specialize in modern web technologies (React, Node.js), System Design, and Cloud Services (AWS/Azure). I believe clean code and scalable architecture are the foundations of any successful product.
+                  I have hands-on experience building projects like ConnectSphere (social media app), InsightHub (blogging platform), SmartTask (task manager), and WeatherVista (real-time weather app) — all built with Django, Python, and modern web technologies.
                 </p>
                 <p>
-                  When I'm not coding, you'll find me exploring new technologies, contributing to open source projects, or sharing knowledge through technical writing and mentoring.
+                  When I'm not coding, you'll find me reading books on technology trends, exploring new tools and frameworks through internet surfing, or solving complex programming problems.
                 </p>
               </div>
 
               <div className="flex flex-wrap gap-2 mt-8">
                 {[
-                  "JavaScript",
-                  "React",
-                  "Node.js",
-                  "TypeScript",
-                  "System Design",
-                  "Cloud Architecture",
-                  "AWS",
-                  "Docker",
                   "Python",
-                  "MongoDB",
-                  "PostgreSQL",
-                  "GraphQL"
+                  "Django",
+                  "JavaScript",
+                  "HTML",
+                  "CSS",
+                  "Bootstrap",
+                  "MySQL",
+                  "Git/GitHub",
+                  "REST API",
+                  "Responsive Design",
+                  "Unit Testing",
+                  "MS Office"
                 ].map((skill) => (
                   <span
                     key={skill}
@@ -141,7 +141,7 @@ const About = () => {
                 My Journey So Far
               </h2>
               <p className="text-lg text-muted-foreground">
-                A timeline of my growth as a Software Engineer
+                A timeline of my growth as a Python Developer
               </p>
             </div>
 

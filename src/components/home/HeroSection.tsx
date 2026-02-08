@@ -1,13 +1,13 @@
 import { ArrowRight, Terminal, Server, Cloud, Cpu, Code2, ShieldCheck } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import heroImage from "@/assets/hero-portrait.jpg";
+import heroImage from "@/assets/Main-Profile.webp";
 
 const stats = [
-  { value: "50+", label: "Scalable APIs" },
-  { value: "99.9%", label: "Uptime" },
-  { value: "10k+", label: "Concurrent Users" },
-  { value: "5+", label: "Cloud Architectures" },
+  { value: "4+", label: "Projects Built" },
+  { value: "BCA", label: "Computer Science" },
+  { value: "MCA", label: "Pursuing" },
+  { value: "Python", label: "Specialization" },
 ];
 
 const floatingIcons = [
@@ -45,20 +45,20 @@ export const HeroSection = () => {
               className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full mb-6 border border-primary/30 bg-primary/10 animate-fade-up"
             >
               <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
-              <span className="text-sm text-foreground font-medium tracking-wide">Available for Software Engineer Roles</span>
+              <span className="text-sm text-foreground font-medium tracking-wide">Available for Python Developer Roles</span>
             </div>
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-heading font-bold mb-6 animate-fade-up" style={{ animationDelay: "0.1s" }}>
               <span className="text-foreground">Pankaj Kumawat</span>
               <br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">
-                Software Engineer & Full Stack Developer
+                Python Developer & Web Developer
               </span>
             </h1>
 
             <p className="text-lg md:text-xl text-muted-foreground mb-8 max-w-xl mx-auto lg:mx-0 animate-fade-up" style={{ animationDelay: "0.2s" }}>
-              Building innovative software solutions with modern technologies.
-              Specializing in Full Stack Development, System Design, and Cloud Architecture.
+              Python Developer with proficiency in Django, Python, and JavaScript.
+              Experienced in building responsive web applications and scalable backend systems.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start animate-fade-up" style={{ animationDelay: "0.3s" }}>
@@ -74,7 +74,7 @@ export const HeroSection = () => {
                 className="border-border hover:bg-accent"
                 asChild
               >
-                <a href="https://www.linkedin.com/in/pankaj-kumawat" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/pankajkumawat" target="_blank" rel="noopener noreferrer">
                   Official LinkedIn
                 </a>
               </Button>
@@ -102,7 +102,7 @@ export const HeroSection = () => {
               <div className="relative bg-card p-2 rounded-2xl overflow-hidden ring-1 ring-border">
                 <img
                   src={heroImage}
-                  alt="Pankaj Kumawat - Software Engineer"
+                  alt="Pankaj Kumawat - Python Developer"
                   className="w-full max-w-md rounded-xl object-cover aspect-[4/3]"
                   loading="eager"
                 />
@@ -114,7 +114,7 @@ export const HeroSection = () => {
                   <Cpu className="text-blue-500" size={24} />
                   <div>
                     <p className="text-xs text-muted-foreground">Specialty</p>
-                    <p className="text-sm font-bold text-foreground">System Design</p>
+                    <p className="text-sm font-bold text-foreground">Python & Django</p>
                   </div>
                 </div>
               </div>
@@ -123,8 +123,8 @@ export const HeroSection = () => {
                 <div className="flex items-center gap-3">
                   <ShieldCheck className="text-green-500" size={24} />
                   <div>
-                    <p className="text-xs text-muted-foreground">Security</p>
-                    <p className="text-sm font-bold text-foreground">Top Priority</p>
+                    <p className="text-xs text-muted-foreground">Focus</p>
+                    <p className="text-sm font-bold text-foreground">Web Development</p>
                   </div>
                 </div>
               </div>

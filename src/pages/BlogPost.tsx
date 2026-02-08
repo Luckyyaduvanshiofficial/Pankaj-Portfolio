@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { ArrowLeft, Calendar, Clock, User, Share2, Linkedin, Twitter } from "lucide-react";
 import { Link, useParams, Navigate } from "react-router-dom";
 import { blogPosts } from "@/data/blog";
-import heroImage from "@/assets/hero-portrait.jpg";
+import heroImage from "@/assets/Main-Profile.webp";
 
 const BlogPost = () => {
   const { slug } = useParams();
@@ -138,12 +138,12 @@ const BlogPost = () => {
                 <div>
                   <h3 className="font-heading font-semibold mb-1">Written by {post.author}</h3>
                   <p className="text-muted-foreground text-sm mb-3">
-                    Software Engineer | Full Stack Developer | Passionate about building scalable systems,
-                    modern web technologies, and innovative software solutions.
+                    Python Developer | Django Developer | Passionate about building responsive web applications,
+                    scalable backend systems, and user-centric solutions.
                   </p>
                   <div className="flex gap-2">
                     <a
-                      href="https://www.linkedin.com/in/pankaj-kumawat"
+                      href="https://www.linkedin.com/in/pankajkumawat"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-primary hover:underline text-sm"

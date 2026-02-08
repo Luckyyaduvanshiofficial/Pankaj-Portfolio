@@ -18,7 +18,7 @@ export const socialLinks: SocialLink[] = [
   },
   {
     name: "LinkedIn",
-    url: "https://www.linkedin.com/in/pankaj-kumawat",
+    url: "https://www.linkedin.com/in/pankajkumawat",
     icon: <Linkedin className="w-5 h-5" />,
     color: "hover:text-blue-600",
     description: "Professional networking"
@@ -32,7 +32,7 @@ export const socialLinks: SocialLink[] = [
   },
   {
     name: "Email",
-    url: "mailto:pankaj@pankajkumawat.in",
+    url: "mailto:pankajkumawat2023@gmail.com",
     icon: <Mail className="w-5 h-5" />,
     color: "hover:text-green-600",
     description: "Get in touch via email"

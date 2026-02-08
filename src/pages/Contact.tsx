@@ -11,8 +11,8 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "pankaj@pankajkumawat.in",
-    href: "mailto:pankaj@pankajkumawat.in",
+    value: "pankajkumawat2023@gmail.com",
+    href: "mailto:pankajkumawat2023@gmail.com",
   },
   {
     icon: MapPin,
@@ -23,13 +23,13 @@ const contactInfo = [
   {
     icon: Phone,
     label: "Phone",
-    value: "+91 9667907515",
-    href: "tel:+919667907515",
+    value: "+91 9950411139",
+    href: "tel:+919950411139",
   },
 ];
 
 const socialLinks = [
-  { icon: Linkedin, href: "https://www.linkedin.com/in/pankaj-kumawat", label: "LinkedIn" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/pankajkumawat", label: "LinkedIn" },
   { icon: Github, href: "https://github.com/pankajkumawat", label: "GitHub" },
   { icon: Instagram, href: "https://www.instagram.com/pankajkumawat", label: "Instagram" },
 ];
@@ -71,7 +71,7 @@ const Contact = () => {
     <Layout>
       <SEOHead
         title="Contact"
-        description="Get in touch with Pankaj Kumawat. Available for Software Engineering consulting, web development projects, and collaboration opportunities."
+        description="Get in touch with Pankaj Kumawat. Available for Python Development, Django web development projects, and collaboration opportunities."
       />
 
       {/* Hero */}

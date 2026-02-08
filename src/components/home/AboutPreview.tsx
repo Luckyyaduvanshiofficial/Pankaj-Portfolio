@@ -1,23 +1,23 @@
 import { ArrowRight, Terminal, Server, Code2 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import workspaceImage from "@/assets/workspace-portrait.jpg";
+import workspaceImage from "@/assets/Workspace.webp";
 
 const highlights = [
   {
     Icon: Terminal,
-    title: "Full Stack Development",
-    description: "Expert in React, Node.js, and modern web technologies",
+    title: "Python & Django Development",
+    description: "Building responsive web applications with Python and Django",
   },
   {
     Icon: Server,
-    title: "System Design",
-    description: "Building scalable and distributed systems",
+    title: "Backend Systems",
+    description: "Designing scalable backend systems with optimized performance",
   },
   {
     Icon: Code2,
-    title: "Clean Code",
-    description: "Writing maintainable, efficient, and tested code",
+    title: "Responsive Design",
+    description: "Creating user-centric, responsive web interfaces",
   },
 ];
 
@@ -45,15 +45,15 @@ export const AboutPreview = () => {
               About Me
             </span>
             <h2 className="text-3xl md:text-4xl font-heading font-bold mt-2 mb-6 text-foreground">
-              Architecting <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">Digital Solutions</span>
+              Building <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">Web Solutions</span>
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-6">
-              I'm Pankaj Kumawat, a Software Engineer driven by the challenge of building scalable systems.
-              My expertise lies in designing robust applications, optimizing performance, and deploying cloud-native solutions.
+              I'm Pankaj Kumawat, a Python Developer with a BCA degree and proficiency in Django, Python, and JavaScript.
+              Experienced in building responsive web applications, optimizing performance, and designing scalable backend systems.
             </p>
             <p className="text-muted-foreground leading-relaxed mb-8">
-              From architecting full stack applications with React and Node.js to managing complex data relationships in PostgreSQL,
-              I focus on creating software that is efficient, secure, and maintainable.
+              From creating dynamic social media platforms to building weather applications with real-time data,
+              I focus on delivering user-centric solutions with clean, efficient code.
             </p>
 
             {/* Highlights */}

@@ -5,7 +5,7 @@ const socialLinks = [
   {
     name: "LinkedIn",
     description: "Connect on LinkedIn",
-    href: "https://www.linkedin.com/in/pankaj-kumawat",
+    href: "https://www.linkedin.com/in/pankajkumawat",
     Icon: Linkedin,
   },
   {
@@ -116,9 +116,9 @@ export const SocialHub = () => {
               color: 'white'
             }}
           >
-            <a href="mailto:pankaj@pankajkumawat.in" className="flex items-center gap-2">
+            <a href="mailto:pankajkumawat2023@gmail.com" className="flex items-center gap-2">
               <Mail size={18} />
-              pankaj@pankajkumawat.in
+              pankajkumawat2023@gmail.com
             </a>
           </Button>
         </div>

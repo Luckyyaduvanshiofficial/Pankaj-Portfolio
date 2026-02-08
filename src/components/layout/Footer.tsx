@@ -3,9 +3,9 @@ import { Github, Linkedin, Instagram, Mail, Heart } from "lucide-react";
 
 const socialLinks = [
   { href: "https://github.com/pankajkumawat", icon: Github, label: "GitHub" },
-  { href: "https://www.linkedin.com/in/pankaj-kumawat", icon: Linkedin, label: "LinkedIn" },
+  { href: "https://www.linkedin.com/in/pankajkumawat", icon: Linkedin, label: "LinkedIn" },
   { href: "https://www.instagram.com/pankajkumawat", icon: Instagram, label: "Instagram" },
-  { href: "mailto:pankaj@pankajkumawat.in", icon: Mail, label: "Email" },
+  { href: "mailto:pankajkumawat2023@gmail.com", icon: Mail, label: "Email" },
 ];
 
 const footerLinks = [
@@ -32,7 +32,7 @@ export const Footer = () => {
               </span>
             </Link>
             <p className="text-muted-foreground text-sm leading-relaxed">
-              Software Engineer passionate about building innovative digital solutions.
+              Python Developer passionate about building responsive web applications and scalable backend systems.
             </p>
           </div>
 
@@ -70,7 +70,7 @@ export const Footer = () => {
               ))}
             </div>
             <p className="text-sm text-muted-foreground mt-4">
-              pankaj@pankajkumawat.in
+              pankajkumawat2023@gmail.com
             </p>
           </div>
         </div>

@@ -63,7 +63,7 @@ export const CTASection = () => {
                   e.currentTarget.style.background = 'rgba(255,255,255,0.25)';
                 }}
               >
-                <a href="mailto:pankaj@pankajkumawat.in" className="flex items-center gap-2">
+                <a href="mailto:pankajkumawat2023@gmail.com" className="flex items-center gap-2">
                   <Mail size={18} />
                   Send Email
                 </a>

@@ -1,105 +1,95 @@
 export const aboutMeBlog = {
    id: "about-pankaj-kumawat",
-   slug: "about-pankaj-kumawat-software-engineer",
-   title: "About Pankaj Kumawat - Software Engineer Journey",
-   excerpt: "Discover the journey of Pankaj Kumawat - a passionate Software Engineer specializing in Full Stack Development and System Design.",
+   slug: "about-pankaj-kumawat-python-developer",
+   title: "About Pankaj Kumawat - Python Developer Journey",
+   excerpt: "Discover the journey of Pankaj Kumawat - a passionate Python Developer specializing in Django, Web Development, and Building Responsive Applications.",
    content: `
-# About Pankaj Kumawat - Software Engineer
+# About Pankaj Kumawat - Python Developer
 
 ## Who is Pankaj Kumawat?
 
-Pankaj Kumawat is a **Software Engineer** with a passion for building robust, scalable, and high-performance software solutions. Specializing in **Full Stack Development, System Design, Cloud Architecture, and Modern Web Technologies**, Pankaj crafts digital solutions that power modern applications.
-
-As a professional tech personality, Pankaj combines technical depth with a creative approach to system design, ensuring that every line of code contributes to a secure and efficient system.
+Pankaj Kumawat is a **Python Developer** with a BCA degree and proficiency in Django, Python, and JavaScript. Experienced in building responsive web applications, optimizing performance, and designing scalable backend systems. Creating and implementing responsive design principles, and collaborating with cross-functional teams.
 
 ---
 
 ## 🎓 Educational Background
 
-### Bachelor of Technology in Computer Science
-**Institution:** Reputed Engineering College
-**Focus Areas:** Data Structures, Algorithms, System Design, Web Technologies
+### MCA: Computer Science (Pursuing)
+**Institution:** University of Rajasthan
+**Duration:** July 2025 – Present
 
-### Technical Certifications
-- **Cloud Architecture** - AWS/Azure Certifications
-- **Full Stack Development** - Advanced Web Technologies
-- **System Design** - Distributed Systems
+### BCA: Computer Science
+**Institution:** University Commerce College, Jaipur
+**Duration:** July 2022 – July 2025
+**GPA:** 7.4 CGPA
 
----
-
-## 💼 Professional Expertise
-
-### Core Tech Stack
-
-**Frontend Technologies:**
-- **React & Next.js:** Building modern, responsive user interfaces
-- **TypeScript:** Type-safe JavaScript development
-- **Tailwind CSS:** Utility-first CSS framework
-- **Modern JavaScript:** ES6+, Async/Await, Promises
-
-**Backend Technologies:**
-- **Node.js & Express:** Server-side JavaScript development
-- **Python & Django:** Backend API development
-- **Database Management:** PostgreSQL, MongoDB, Redis
-- **RESTful APIs & GraphQL:** API design and implementation
-
-**Cloud & DevOps:**
-- **AWS/Azure:** Cloud services and deployment
-- **Docker & Kubernetes:** Containerization and orchestration
-- **CI/CD:** GitHub Actions, Jenkins
-- **Monitoring:** Application performance monitoring
-
-**Tools & Practices:**
-- **Version Control:** Git, GitHub
-- **Testing:** Unit testing, Integration testing
-- **Agile:** Scrum methodology
-- **Code Review:** Best practices and standards
+### Python Developer Certificate
+**Institution:** TechnoGlobe, Jaipur, India
+**Duration:** July 2024 – December 2024
 
 ---
 
-## 🚀 Key Projects & Achievements
+## 💼 Technical Skills
 
-- **Scalable Web Applications:** Built applications serving thousands of users
-- **System Architecture:** Designed distributed systems for high availability
-- **Performance Optimization:** Improved application performance by 200%
-- **Team Leadership:** Led development teams for complex projects
-- **Open Source:** Contributed to various open source projects
+**Programming Languages:**
+- **Python (Advanced):** Core development language
+- **JavaScript (Intermediate):** Frontend interactivity
+
+**Web Development:**
+- **Django:** Backend web framework
+- **HTML, CSS, Bootstrap:** Frontend technologies
+- **Responsive Design:** Mobile-first approach
+
+**Database Management:**
+- **MySQL:** Relational database management
+- **MS Access:** Data management
+
+**Tools & Technologies:**
+- **Git/GitHub:** Version control
+- **MS Office:** Documentation and productivity
+
+**Testing:**
+- **Unit Testing:** Code quality assurance
+- **Automation:** Test automation
+
+---
+
+## 🚀 Key Projects
+
+- **ConnectSphere:** Dynamic social media application with secure authentication and customizable profiles
+- **InsightHub:** User-friendly blogging platform with interactive commenting system
+- **SmartTask:** Responsive task management app for creating, updating, and organizing tasks
+- **WeatherVista:** Real-time weather app integrating OpenWeatherMap API and Google Search API
 
 ---
 
 ## 📱 Connect with Pankaj Kumawat
 
-Stay connected with the official channels:
-
 ### Professional Networks
 - **Portfolio Website:** [https://pankajkumawat.in](https://pankajkumawat.in)
-- **LinkedIn:** [https://www.linkedin.com/in/pankaj-kumawat](https://www.linkedin.com/in/pankaj-kumawat)
+- **LinkedIn:** [https://www.linkedin.com/in/pankajkumawat](https://www.linkedin.com/in/pankajkumawat)
 - **GitHub:** [https://github.com/pankajkumawat](https://github.com/pankajkumawat)
-
-### Social Media
-- **Twitter:** [https://twitter.com/pankajkumawat](https://twitter.com/pankajkumawat)
-- **Instagram:** [https://www.instagram.com/pankajkumawat](https://www.instagram.com/pankajkumawat)
+- **Email:** pankajkumawat2023@gmail.com
 
 ---
 
-## 🎯 Future Goals
+## 🎯 Activities & Interests
 
-- Architecting enterprise-level software solutions
-- Contributing to open source community
-- Mentoring aspiring software engineers
-- Building products that impact millions of users
+- **Coding:** Passionate about building innovative applications and solving complex problems
+- **Reading Books:** Focused on technology trends and software development
+- **Internet Surfing:** Exploring new tools, frameworks, and web technologies
 
 ---
 
 ## 🚀 Let's Build Something Amazing!
 
-**Ready to create innovative software solutions?**
+**Ready to create innovative web applications?**
 [Get in Touch](https://pankajkumawat.in/contact)
 `,
    author: "Pankaj Kumawat",
    date: "2026-02-05",
    readTime: "8 min read",
-   tags: ["About Me", "Software Engineer", "Full Stack", "System Design", "Web Development"],
+   tags: ["About Me", "Python Developer", "Django", "Web Development", "BCA"],
    featured: true,
    image: "https://pankajkumawat.in/pankaj-profile.jpg"
 };

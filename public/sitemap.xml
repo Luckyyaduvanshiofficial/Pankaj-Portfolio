@@ -13,8 +13,8 @@
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://pankajkumawat.in/pankaj-profile.jpg</image:loc>
-      <image:title>Pankaj Kumawat - Software Engineer</image:title>
-      <image:caption>Pankaj Kumawat - Professional Software Engineer specializing in Full Stack Development and System Design</image:caption>
+      <image:title>Pankaj Kumawat - Python Developer</image:title>
+      <image:caption>Pankaj Kumawat - Python Developer specializing in Django, Web Development, and Responsive Design</image:caption>
     </image:image>
   </url>
 
@@ -64,7 +64,7 @@
 
   <!-- Blog Posts -->
   <url>
-    <loc>https://pankajkumawat.in/blog/about-pankaj-kumawat-software-engineer</loc>
+    <loc>https://pankajkumawat.in/blog/about-pankaj-kumawat-python-developer</loc>
     <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>

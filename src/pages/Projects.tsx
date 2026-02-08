@@ -24,7 +24,7 @@ const Projects = () => {
     <Layout>
       <SEOHead
         title="Projects"
-        description="Explore Pankaj Kumawat's portfolio of Full Stack, Web Development, and System Design projects showcasing practical skills in React, Node.js, Cloud, and more."
+        description="Explore Pankaj Kumawat's portfolio of Python, Django, and Web Development projects showcasing practical skills in building responsive applications."
       />
 
       {/* Hero */}
@@ -38,7 +38,7 @@ const Projects = () => {
               My <span className="gradient-text">Projects</span>
             </h1>
             <p className="text-lg text-primary-foreground/70">
-              A collection of my work in Full Stack Development, System Design, and Cloud Architecture
+              A collection of my work in Python, Django, and Web Development
             </p>
           </div>
         </div>

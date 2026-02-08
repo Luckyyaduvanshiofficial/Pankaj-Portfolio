@@ -9,63 +9,63 @@ import {
 
 const skillCategories = [
   {
-    title: "Backend Development",
-    Icon: Server,
-    skills: [
-      { name: "Python (Advanced)", level: 98 },
-      { name: "Django & DRF", level: 95 },
-      { name: "FastAPI", level: 92 },
-      { name: "Go (Golang)", level: 75 },
-    ],
-  },
-  {
-    title: "Database & Storage",
-    Icon: Database,
-    skills: [
-      { name: "PostgreSQL", level: 90 },
-      { name: "MongoDB", level: 85 },
-      { name: "Redis Caching", level: 88 },
-      { name: "Elasticsearch", level: 75 },
-    ],
-  },
-  {
-    title: "Cloud & DevOps",
-    Icon: Cloud,
-    skills: [
-      { name: "AWS Services", level: 85 },
-      { name: "Docker & Compose", level: 90 },
-      { name: "Kubernetes", level: 70 },
-      { name: "CI/CD Pipelines", level: 85 },
-    ],
-  },
-  {
-    title: "System Design",
-    Icon: Cpu,
-    skills: [
-      { name: "Microservices", level: 88 },
-      { name: "High Scalability", level: 85 },
-      { name: "Event-Driven Arch", level: 82 },
-      { name: "REST & GraphQL", level: 92 },
-    ],
-  },
-  {
-    title: "Tools & Utilities",
-    Icon: Terminal,
-    skills: [
-      { name: "Git & GitHub", level: 95 },
-      { name: "Linux Administration", level: 80 },
-      { name: "Nginx/Apache", level: 75 },
-      { name: "RabbitMQ/Kafka", level: 78 },
-    ],
-  },
-  {
-    title: "Technical Leadership",
+    title: "Programming Languages",
     Icon: Code2,
     skills: [
-      { name: "Code Review", level: 92 },
-      { name: "Tech Mentoring", level: 90 },
-      { name: "Agile/Scrum", level: 88 },
-      { name: "Architecture Design", level: 85 },
+      { name: "Python (Advanced)", level: 90 },
+      { name: "JavaScript (Intermediate)", level: 70 },
+      { name: "HTML & CSS", level: 85 },
+      { name: "Bootstrap", level: 80 },
+    ],
+  },
+  {
+    title: "Web Development",
+    Icon: Server,
+    skills: [
+      { name: "Django", level: 88 },
+      { name: "Responsive Design", level: 85 },
+      { name: "REST APIs", level: 80 },
+      { name: "Bootstrap", level: 82 },
+    ],
+  },
+  {
+    title: "Database Management",
+    Icon: Database,
+    skills: [
+      { name: "MySQL", level: 85 },
+      { name: "MS Access", level: 75 },
+      { name: "SQLite", level: 78 },
+      { name: "Database Design", level: 80 },
+    ],
+  },
+  {
+    title: "Tools & Technologies",
+    Icon: Terminal,
+    skills: [
+      { name: "Git & GitHub", level: 85 },
+      { name: "MS Office", level: 80 },
+      { name: "VS Code", level: 90 },
+      { name: "Command Line", level: 75 },
+    ],
+  },
+  {
+    title: "Testing",
+    Icon: Cpu,
+    skills: [
+      { name: "Unit Testing", level: 78 },
+      { name: "Automation Testing", level: 72 },
+      { name: "Debugging", level: 82 },
+      { name: "Code Review", level: 75 },
+    ],
+  },
+  {
+    title: "Soft Skills",
+    Icon: Cloud,
+    skills: [
+      { name: "Problem Solving", level: 88 },
+      { name: "Team Collaboration", level: 85 },
+      { name: "Communication", level: 82 },
+      { name: "Quick Learning", level: 90 },
     ],
   },
 ];
@@ -82,7 +82,7 @@ export const SkillsSection = () => {
             Technical <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">Arsenal</span>
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            A robust engineering toolkit designed for building scalable, high-performance, and secure backend systems.
+            Proficient in Python, Django, JavaScript, and modern web technologies for building responsive and scalable applications.
           </p>
         </div>
 

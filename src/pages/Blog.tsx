@@ -24,7 +24,7 @@ const Blog = () => {
     <Layout>
       <SEOHead
         title="Blog"
-        description="Read Pankaj Kumawat's blog posts about Full Stack Development, System Design, Web Technologies, and the journey of a Software Engineer."
+        description="Read Pankaj Kumawat's blog posts about Python Development, Django, Web Technologies, and the journey of a Python Developer."
       />
 
       {/* Hero */}

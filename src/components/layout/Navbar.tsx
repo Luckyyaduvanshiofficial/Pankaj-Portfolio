@@ -60,7 +60,7 @@ export const Navbar = () => {
           <ThemeToggle />
 
           <Button size="sm" className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white border-0">
-            <a href="https://www.linkedin.com/in/pankaj-kumawat" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/pankajkumawat" target="_blank" rel="noopener noreferrer">
               Let's Connect
             </a>
           </Button>
@@ -96,7 +96,7 @@ export const Navbar = () => {
             </Link>
           ))}
           <Button className="w-full mt-4 bg-gradient-to-r from-blue-600 to-purple-600 text-white border-0">
-            <a href="https://www.linkedin.com/in/pankaj-kumawat" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/pankajkumawat" target="_blank" rel="noopener noreferrer">
               Let's Connect
             </a>
           </Button>
